@@ -1,8 +1,11 @@
 import { Container, Row, Col, Tab, Nav } from "react-bootstrap";
-import projImg1 from "../../assets/img/project-img1.png";
-import projImg2 from "../../assets/img/project-img2.png";
-import projImg3 from "../../assets/img/project-img3.png";
 import colorSharp2 from "../../assets/img/color-sharp2.png";
+import blog from "../../assets/img/blogimage.png";
+import socialimage from "../../assets/img/socialimage.png";
+import hotelsimage from "../../assets/img/hotelsimage.png";
+import milionimage from "../../assets/img/milionimage.png";
+import eco1image from "../../assets/img/eco1image.png";
+import weatherimage from "../../assets/img/weatherimage.png";
 import "animate.css";
 import "./Projects.css";
 import Project from "./Project";
@@ -14,32 +17,32 @@ function Projects() {
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg1,
+      imgUrl: eco1image,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg2,
+      imgUrl: hotelsimage,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg3,
+      imgUrl: socialimage,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg1,
+      imgUrl: milionimage,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg2,
+      imgUrl: weatherimage,
     },
     {
       title: "Business Startup",
       description: "Design & Development",
-      imgUrl: projImg3,
+      imgUrl: blog,
     },
   ];
   return (
