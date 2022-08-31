@@ -15,34 +15,46 @@ import { isVisible } from "@testing-library/user-event/dist/utils";
 function Projects() {
   const projects = [
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "E-commerce Project",
+      description: "React js",
       imgUrl: eco1image,
+      page: "https://mayarja.github.io/E-commerce/",
+      code: "https://github.com/mayarja/E-commerce/tree/master",
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Hotels Project",
+      description: "React js",
       imgUrl: hotelsimage,
+      page: "https://mayarja.github.io/Hotels/",
+      code: "https://github.com/mayarja/Hotels/tree/master",
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Social Project",
+      description: "React js",
       imgUrl: socialimage,
+      page: "https://mayarja.github.io/Social/",
+      code: "https://github.com/mayarja/Social/tree/master",
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Milion Project",
+      description: "React js",
       imgUrl: milionimage,
+      page: "https://mayarja.github.io/Milion/",
+      code: "https://github.com/mayarja/Milion/tree/master",
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Weather Project",
+      description: "React js",
       imgUrl: weatherimage,
+      page: "https://mayarja.github.io/Weather/",
+      code: "https://github.com/mayarja/Weather/tree/master",
     },
     {
-      title: "Business Startup",
-      description: "Design & Development",
+      title: "Blogs Project",
+      description: "React js",
       imgUrl: blog,
+      page: "https://mayarja.github.io/Blogs/",
+      code: "https://github.com/mayarja/Blogs",
     },
   ];
   return (
