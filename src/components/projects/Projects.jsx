@@ -6,6 +6,7 @@ import hotelsimage from "../../assets/img/hotelsimage.png";
 import milionimage from "../../assets/img/milionimage.png";
 import eco1image from "../../assets/img/eco1image.png";
 import weatherimage from "../../assets/img/weatherimage.png";
+import kitchenimage from "../../assets/img/kitchenimage.png";
 import "animate.css";
 import "./Projects.css";
 import Project from "./Project";
@@ -34,6 +35,13 @@ function Projects() {
       imgUrl: socialimage,
       page: "https://mayarja.github.io/Social/",
       code: "https://github.com/mayarja/Social/tree/master",
+    },
+    {
+      title: "E-commerce Project",
+      description: "React js",
+      imgUrl: kitchenimage,
+      page: "https://mayarja.github.io/milano-react/",
+      code: "https://github.com/mayarja/milano-react/tree/master",
     },
     {
       title: "Milion Project",
