@@ -70,20 +70,25 @@ function Banner() {
                       {`Hi! I'm mayar`}{" "}
                       <span
                         className="txt-rotate"
-                        data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer" ]'
+                        data-rotate='[ "Web Developer", "Web Designer" ]'
                       >
                         <span className="wrap">{text}</span>
                       </span>
                     </h1>
                     <p>
-                      I'm Mayar Al-Jabasini I am studying computer technology
-                      and I am in my undergraduate year interested in
-                      programming and technology
+                      I am a software engineer with over two and a half years of
+                      experience in application development. I have worked on
+                      many successful projects and follow best practices in
+                      software design and development
                     </p>
-                    <button onClick={() => console.log("connect")}>
-                      <a href="#contact">Let’s Connect</a>
+                    <a
+                      href="#contact"
+                      className="btn btn-light d-flex gap-2"
+                      style={{ width: "fit-content" }}
+                    >
+                      Let’s Connect
                       <ArrowRightCircle size={25} />
-                    </button>
+                    </a>
                   </div>
                 )}
               </TrackVisibility>

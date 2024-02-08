@@ -15,6 +15,7 @@ function Footer() {
         </div>
         <div className="copyright">
           <ul className="list-unstyled">
+            {/*
             <li className="nav-item">
               <a
                 className="nav-link icon"
@@ -23,18 +24,27 @@ function Footer() {
                 <FaFacebookF />
               </a>
             </li>
+          */}
             <li className="nav-item">
-              <a className="nav-link icon" href="https://github.com/mayarja">
+              <a
+                className="nav-link icon"
+                target="blank"
+                href="https://github.com/mayarja"
+              >
                 <AiFillGithub />
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link icon" href="Projects">
+              <a
+                className="nav-link icon"
+                target="blank"
+                href="https://www.linkedin.com/in/mayar-aljabasene-7a2a7724a/"
+              >
                 <GrLinkedinOption />
               </a>
             </li>
           </ul>
-          <p>Copyright 2022.All Rights Reserved</p>
+          <p>Copyright 2024.All Rights Reserved</p>
         </div>
       </div>
     </div>

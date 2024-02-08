@@ -8,9 +8,7 @@ function NavbarCo() {
     <div className="container">
       <nav className="navbar navbar-expand-lg navbar-dark fixed-top">
         <div className="container">
-          <a className="navbar-brand" href="#logo">
-            <img src={logo} alt="..." />
-          </a>
+          <h2>Mayar Al Jabasene</h2>
           <button
             className="navbar-toggler"
             type="button"
@@ -40,21 +38,29 @@ function NavbarCo() {
                 </a>
               </li>
 
-              <li className="nav-item">
+              {/**<li className="nav-item">
                 <a
                   className="nav-link icon"
                   href="https://www.facebook.com/mayar.ja.58/"
                 >
                   <FaFacebookF />
                 </a>
-              </li>
+              </li> */}
               <li className="nav-item">
-                <a className="nav-link icon" href="https://github.com/mayarja">
+                <a
+                  className="nav-link icon"
+                  target="blank"
+                  href="https://github.com/mayarja"
+                >
                   <AiFillGithub />
                 </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link icon" href="Projects">
+                <a
+                  className="nav-link icon"
+                  target="blank"
+                  href="https://www.linkedin.com/in/mayar-aljabasene-7a2a7724a/"
+                >
                   <GrLinkedinOption />
                 </a>
               </li>

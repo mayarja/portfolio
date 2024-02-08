@@ -31,7 +31,8 @@ function Skills() {
       <div className="container">
         <h2>Skills</h2>
         <p>
-          I have these experiences and a lot of skills from university<br></br>
+          I have acquired these experiences and a plethora of skills through my
+          work experiences in various companies.<br></br>
           These are the most important skills I have acquired
         </p>
         <div className="bib-slider">
@@ -59,12 +60,32 @@ function Skills() {
                 <h5>Javascript</h5>
               </div>
               <div className="img-div">
+                <img src={img2} alt="..." />
+                <h5>TypeScript</h5>
+              </div>
+              <div className="img-div">
+                <img src={img2} alt="..." />
+                <h5>Redux</h5>
+              </div>
+              <div className="img-div">
+                <img src={img2} alt="..." />
+                <h5>MUI</h5>
+              </div>
+              <div className="img-div">
+                <img src={img2} alt="..." />
+                <h5>Redux Toolkit</h5>
+              </div>
+              <div className="img-div">
+                <img src={img3} alt="..." />
+                <h5>Bootstrap</h5>
+              </div>
+              <div className="img-div">
                 <img src={img3} alt="..." />
                 <h5>Jquery</h5>
               </div>
               <div className="img-div">
                 <img src={img2} alt="..." />
-                <h5>TypeScript</h5>
+                <h5>Odoo 16</h5>
               </div>
             </Carousel>
           </div>
