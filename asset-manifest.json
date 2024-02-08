@@ -1,9 +1,14 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5bb71f11.css",
-    "main.js": "/portfolio/static/js/main.0ef191c7.js",
+    "main.css": "/portfolio/static/css/main.630bc86a.css",
+    "main.js": "/portfolio/static/js/main.80f5692b.js",
     "static/media/blogimage.png": "/portfolio/static/media/blogimage.f2172904315dabecbc40.png",
+    "static/media/ihc.png": "/portfolio/static/media/ihc.96d84a043e81818e059b.png",
+    "static/media/halal-acdemy.png": "/portfolio/static/media/halal-acdemy.9a004aa91b10c2a5adac.png",
+    "static/media/farmy.png": "/portfolio/static/media/farmy.97c062e4d091ca19eb9e.png",
     "static/media/kitchenimage.png": "/portfolio/static/media/kitchenimage.aebfa0add6380da6df5d.png",
+    "static/media/fateh.png": "/portfolio/static/media/fateh.2a094693cdd8a3f40331.png",
+    "static/media/ApoDienst.png": "/portfolio/static/media/ApoDienst.47c0254fef19189be59a.png",
     "static/media/milionimage.png": "/portfolio/static/media/milionimage.c7bf445e157e59ef633c.png",
     "static/media/socialimage.png": "/portfolio/static/media/socialimage.67bc2da52a7a1d7eb18c.png",
     "static/media/color-sharp.png": "/portfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -11,8 +16,12 @@
     "static/media/hotelsimage.png": "/portfolio/static/media/hotelsimage.1a4c9317bc6311c41b91.png",
     "static/media/eco1image.png": "/portfolio/static/media/eco1image.001a7064d37567b8fc64.png",
     "static/media/weatherimage.png": "/portfolio/static/media/weatherimage.ce64478a9438b58bbaa2.png",
+    "static/media/sela.png": "/portfolio/static/media/sela.5b9507194ed564230682.png",
+    "static/media/aratook.png": "/portfolio/static/media/aratook.1e432d6c496a80b59a24.png",
+    "static/media/e-smile.png": "/portfolio/static/media/e-smile.4923cee39ae45efe1e20.png",
     "static/media/banner-bg.png": "/portfolio/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/portfolio/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/miamed.png": "/portfolio/static/media/miamed.57b539e7192aef980ed5.png",
     "static/media/footer-bg.png": "/portfolio/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/contact-img.svg": "/portfolio/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/revicons.eot": "/portfolio/static/media/revicons.a77de540a38981833f9e.eot",
@@ -23,11 +32,11 @@
     "static/media/meter3.svg": "/portfolio/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
     "index.html": "/portfolio/index.html",
     "static/media/logo.svg": "/portfolio/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
-    "main.5bb71f11.css.map": "/portfolio/static/css/main.5bb71f11.css.map",
-    "main.0ef191c7.js.map": "/portfolio/static/js/main.0ef191c7.js.map"
+    "main.630bc86a.css.map": "/portfolio/static/css/main.630bc86a.css.map",
+    "main.80f5692b.js.map": "/portfolio/static/js/main.80f5692b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5bb71f11.css",
-    "static/js/main.0ef191c7.js"
+    "static/css/main.630bc86a.css",
+    "static/js/main.80f5692b.js"
   ]
 }
